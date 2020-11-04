@@ -1,5 +1,12 @@
 ### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=<OS>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<Code>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<Code>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=<Code>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<Shell>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=<Tools>&logoColor=white&color=2bbc8a)
+
 #### Me chamo Matheus, essas são algumas tecnológias que trabalho
 
   - HTML5
@@ -12,7 +19,8 @@
   
 #### Algumas que estou atualmente estudando
   - Python (Django)
-  - Postgres
+  - PostgreSQL
+  - Docker
   
 #### Contato
 Email: *matheus.oliveira.s@protonmail.com*
