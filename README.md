@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=<Code>&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=<Tools>&logoColor=white)
 
-#### Me chamo Matheus, essas são algumas tecnológias que trabalho
+#### Me chamo Matheus, essas são tecnológias que tenho experiência
 
   - HTML5
   - CSS3
