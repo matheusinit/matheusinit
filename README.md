@@ -8,6 +8,7 @@
   - React
   - NodeJS
   - MongoDB
+  - Typescript
   
 #### Algumas que estou atualmente estudando
   - Python (Django)
