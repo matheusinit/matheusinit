@@ -19,7 +19,7 @@
   - Typescript
   
 #### Algumas que estou atualmente estudando
-  - Java
+  - Python / Java
   - PostgreSQL
   - Docker
   
