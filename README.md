@@ -20,7 +20,7 @@
   
 ### Focando atualmente
   - NodeJS
-  - PostgreSQl
+  - PostgreSQL
   
 #### Contato
 Email: *matheus.oliveira.s@protonmail.com*
