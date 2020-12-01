@@ -18,10 +18,9 @@
   - MongoDB
   - Typescript
   
-#### Algumas que estou atualmente estudando
-  - Python
-  - PostgreSQL
-  - Docker
+### Focando atualmente
+  - NodeJS
+  - PostgreSQl
   
 #### Contato
 Email: *matheus.oliveira.s@protonmail.com*
