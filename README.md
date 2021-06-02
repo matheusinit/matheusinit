@@ -17,6 +17,12 @@
   - NodeJS
   - MongoDB
   - Typescript
+
+#### Essas são as tecnologias que estou estudando agora
+  - SQL
+  - Django
+  - Docker
+
   
 #### Contato
 Email: *matheus.oliveira.s@protonmail.com*
