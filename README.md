@@ -10,17 +10,15 @@
 
 #### Me chamo Matheus, essas são tecnológias que tenho experiência
 
-  - HTML5
-  - CSS3
-  - Javascript
   - React
   - NodeJS
   - MongoDB
   - Typescript
+  - Docker
 
 #### Essas são as tecnologias que estou estudando agora
   - SQL
-  - Docker
+  - TDD
 
   
 #### Contato
