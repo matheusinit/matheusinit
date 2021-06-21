@@ -19,6 +19,7 @@
 #### Essas são as tecnologias que estou estudando agora
   - SQL
   - TDD
+  - Python
 
   
 #### Contato
