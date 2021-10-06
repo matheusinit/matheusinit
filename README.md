@@ -14,6 +14,7 @@
   - NodeJS
   - MongoDB
   - Typescript
+  - Django
   - Docker
 
   
