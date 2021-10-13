@@ -12,7 +12,6 @@
 
   - React
   - NodeJS
-  - MongoDB
   - Typescript
   - Django
   - Docker
