@@ -10,11 +10,12 @@
 
 #### Me chamo Matheus, essas são tecnológias que tenho experiência
 
-  - React
-  - NodeJS
-  - Typescript
-  - Django
+  - React (Javascript)
+  - NodeJS (Javascript)
+  - Typescript (Javascript)
+  - Django (Python)
   - Docker
+  - Laravel (PHP)
 
   
 #### Contato
