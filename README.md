@@ -3,8 +3,8 @@
 
 #### Me chamo Matheus, essas são tecnológias que tenho experiência:
 
-  - NodeJS (Javascript)
-  - Typescript (Javascript)
+  - NodeJS 
+  - Typescript
   - Django (Python)
   - Docker
 
