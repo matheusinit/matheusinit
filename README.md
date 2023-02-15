@@ -6,14 +6,14 @@
 
 ### :notebook: Um pouco sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, atualmente aprendendo de tudo um pouco. Me interesso principalmente por Back-end.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, atualmente estagio na [DIPEQ - IFRN](https://dipeq.cnat.ifrn.edu.br/). Me interesso por tecnologias (front, back, devops).
 
 Veja meu perfil e caso se interesse entre em contato comigo 
 
 ### :dart: Objetivos
 
- - Se tornar Desenvolvedor de Software especializado em Back-end.
- - Contribuir 
+ - Se tornar Desenvolvedor de Software Júnior
+ - 
 
 ### :wrench: Tecnologias
 
