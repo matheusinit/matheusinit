@@ -28,7 +28,7 @@ Veja meu perfil e caso se interesse entre em contato comigo, e também meu [blog
 
 ### :blue_book: Blog
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=blog&theme=dark)](https://matheusinit.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=blog&theme=dark)](https://github.com/matheusinit/blog)
 
 ### :computer: Contribuições
 
