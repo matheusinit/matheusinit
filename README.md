@@ -6,9 +6,9 @@
 
 ### :notebook: Um pouco sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, atualmente estagio na [DIPEQ - IFRN](https://dipeq.cnat.ifrn.edu.br/). Me interesso por tecnologias (Front-end, Back-end, Devops).
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, atualmente estagio na [DIPEQ - IFRN](https://dipeq.cnat.ifrn.edu.br/). Me interesso por tecnologias (Front-end, Back-end, Devops). Veja meu perfil e caso se interesse entre em contato comigo, e também meu [blog](https://matheusinit.vercel.app/)
 
-Veja meu perfil e caso se interesse entre em contato comigo, e também meu [blog](https://matheusinit.vercel.app/)
+Buscando novos conhecimentos e em busca da experiência de Desenvolver de Software Júnior
 
 ### :dart: Objetivos
 
