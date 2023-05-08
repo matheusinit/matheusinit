@@ -3,10 +3,12 @@
 #### Linguagens de programação e frameworks
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django Rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Ferramentas
 
@@ -31,16 +33,11 @@ Buscando novos conhecimentos e em busca da experiência de Desenvolver de Softwa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinit&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### :blue_book: Blog
+### :blue_book: Projetos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=blog&theme=dark)](https://github.com/matheusinit/blog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=LembrarMe&theme=dark)](https://github.com/matheusinit/LembrarMe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=files-manager-frontend&theme=dark)](https://github.com/matheusinit/files-manager-frontend)
 
 ### :computer: Contribuições
 
