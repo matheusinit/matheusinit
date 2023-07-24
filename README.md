@@ -1,12 +1,16 @@
 <div align="center">
  
  ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+ <div width="200px">
  
- I'm Matheus Oliveira, a **Back-end Developer**. I like to think about computing (currently studying **AWS** and how to build web applications for performance)
+  I'm Matheus Oliveira, a **Back-end Developer**. I like to think about computing (currently studying **AWS** and how to build web applications for performance)
+ 
+ </div>
 
  Developing software in **Node.js**, **TypeScript**, Python and learning Golang
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusinit&show_icons=true&theme=midnight-purple)
+ ![matheusinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusinit&show_icons=true&theme=midnight-purple)
 
   Currently I am learning through this project:
   
