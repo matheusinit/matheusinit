@@ -6,7 +6,7 @@
 
  Developing software in **Node.js**, **TypeScript**, Python and learning Golang
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinit&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusinit&show_icons=true&theme=midnight-purple)
 
   Currently I am learning through this project:
   
