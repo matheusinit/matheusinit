@@ -2,11 +2,7 @@
  
  ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- <div width="75%">
- 
-  I'm Matheus Oliveira, a **Back-end Developer**. I like to think about computing (currently studying **AWS** and how to build web applications for performance)
- 
- </div>
+ I'm Matheus Oliveira, a **Back-end Developer**. I like to think about computing (currently studying **AWS** and how to build web applications for performance)
 
  Developing software in **Node.js**, **TypeScript**, Python and learning Golang
 
