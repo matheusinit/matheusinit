@@ -7,10 +7,12 @@
  Developing software in **Node.js**, **TypeScript**, Python and learning Golang
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinit&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+  Currently I am learning through this project:
   
  [![Project](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=ecommerce-api&theme=midnight-purple)](https://github.com/matheusinit/ecommerce-api)
 
- I made a tiny contribution to a Open Source Project
+ I made a tiny contribution to a Open Source Project:
 
  [![Open Source](https://github-readme-stats.vercel.app/api/pin/?username=lbenie&repo=reading-time-estimator&theme=midnight-purple)](https://github.com/lbenie/reading-time-estimator)
 
