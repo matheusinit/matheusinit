@@ -2,7 +2,7 @@
  
  ### Hello
 
- I'm Matheus Oliveira, a **Back-end Developer**. I like to build projects and learn new concepts (currently studying **C#**, **AWS** and **Web Services** and how to build better Back-end Apps)
+ I'm Matheus Oliveira, a **Back-end Developer**. I like to build projects and learn new concepts, currently studying **C#**, **AWS** and **Web Services** and how to build better Back-end Apps.
 
  Developing software in **Node.js**, **TypeScript**, Python and learning ASP.NET MVC (C#)
 
