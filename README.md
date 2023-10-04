@@ -10,7 +10,7 @@
 
  ![matheusinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusinit&show_icons=true&rank_icon=github&theme=midnight-purple)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=matheusinit&hide_progress=true&size_weight=0.5&count_weight=0.5)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=matheusinit&hide_progress=true&size_weight=1&count_weight=0.5)
 
  Currently I am learning about Message Broker, Web Performance and Logging through this project:
   
