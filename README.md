@@ -12,7 +12,7 @@ Currently I'm learning **Message Broker**, **Microservices** e **AWS** through p
  
  ### 📌 My best projects 
 - 📚 **Ecommerce**: An API REST in _Node.js_ with Express and Prisma to buy products in an ecommerce deployed in _AWS_ with Docker and _CI/CD_ pipelines with _Unit tests_ and _Integration tests_
-- 📚 **Ordering API Microservice**: A microservice API REST to order products built in _C#_ with ASP.NET MVC with Docker
+- 📚 **Ordering API Microservice**: A microservice API REST to order products built in _C#_ with ASP.NET MVC and Docker
 - 📚 **Delivery API Microservice**: A microservice API REST written in _Java_ with Spring Boot
 
  ### 💻 My work
