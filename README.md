@@ -6,7 +6,7 @@
 
  I'm Matheus Oliveira, a **Back-end Developer**. I'm a 21 year old guy who likes to write tests with TDD. My main language is **Typescript/Javascript**, but I also write in _Java_ and _C#_ as well. I am determined and focused, even more when I am programming. I'm always testing new technologias to improve my view on today's projects. I'm enthusiastic to transmit knowledge and see others improve because of this knowledge. I believe technology can help people and I'm more than happy to participate with hard work. 
  
-Currently I'm learning **Message Broker**, **Microservices** e **AWS** through projects:
+Currently I'm learning **Message Broker**, **Microservices** e **AWS** with real projects.
 
 <br/>
  
