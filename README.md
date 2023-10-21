@@ -16,8 +16,8 @@ Currently I'm learning **Message Broker**, **Microservices** e **AWS** with real
 - ☕ **Delivery API Microservice**: A microservice API REST written in _Java_ with Spring Boot to track orders between warehouses to the customer's house. And Kakfa to async communication with Ordering API Microservice
 
  ### 💻 My work
-- ✏️ [**My Blog**](https://matheusinit.vercel.app): A blog made with _React_ with Astro to render Markdown files deployed in Vercel.
-- ⭐ [**Reading Time Estimator**](https://github.com/lbenie/reading-time-estimator): A tiny contribution to a Open Source project to calculate a time estimation of a text
+- ✏️ [**My Blog**](https://matheusinit.vercel.app): A blog made with _React.js_ and _Typescript_ with Astro to render Markdown files deployed in Vercel.
+- ⭐ [**Reading Time Estimator**](https://github.com/lbenie/reading-time-estimator): A tiny contribution to a Open Source project in _Typescript_ to calculate a time estimation of a text
 </div>
 
 <br/>
