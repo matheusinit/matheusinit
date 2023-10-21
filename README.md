@@ -22,5 +22,5 @@ Currently I'm learning **Message Broker**, **Microservices** e **AWS** with real
 
 <br/>
 
-[Linkedin](https://www.linkedin.com/in/gabrielle-guimaraes-oliveira) |
+[Linkedin](https://www.linkedin.com/in/matheus-silva13/) |
 [Blog](https://matheusinit.vercel.app)
