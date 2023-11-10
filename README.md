@@ -13,7 +13,7 @@ Currently I'm learning about **Message Broker**, **Microservices** e **AWS** wit
  ### 📌 My projects 
 - 💳 **Ecommerce**: An API REST in _Node.js_ with Express and Prisma to buy products in an ecommerce deployed in _AWS_ with Docker and _CI/CD_ pipelines with _Unit tests_ and _Integration tests_
 - 📦 **Ordering API Microservice**: A microservice API REST to order products built in _C#_ with ASP.NET MVC, Docker and Kafka (Microservice communication)
-- ☕ **Delivery API Microservice**: A microservice API REST written in _Java_ with Spring Boot to track orders between warehouses to the customer's house. And Kakfa to async communication with Ordering API Microservice
+- ☕ **Delivery API Microservice**: A microservice API REST written in _Java_ with Spring Boot to track orders between delivery stations to the customer's house and Kakfa to async communication with Ordering API Microservice
 
  ### 💻 My work
 - ✏️ [**My Blog**](https://matheusinit.vercel.app): A blog made with _React.js_ and _Typescript_ with Astro to render Markdown files deployed in Vercel.
