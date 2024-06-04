@@ -11,7 +11,7 @@ Currently I'm learning about **Message Broker**, **Microservices** e **AWS** wit
 <br/>
  
  ### 📌 My projects 
-- [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby")](https://www.ruby-lang.org) **Finance**: A Full-Stack application in _Ruby on Rails_ and _Tailwind_ to manage personal finance
+- [![Ruby](https://cdn.emojidex.com/emoji/ldpi/Ruby.png "Ruby")](https://www.ruby-lang.org) **Finance**: A Full-Stack application in _Ruby on Rails_ and _Tailwind_ to manage personal finance
 - 💳 **Ecommerce**: An API REST in _Node.js_ with Express and Prisma to buy products in an ecommerce deployed in _AWS_ with Docker and _CI/CD_ pipelines with _Unit tests_ and _Integration tests_
 - ☕ **Delivery API Microservice**: A microservice API REST written in _Java_ with Spring Boot to track orders between delivery stations to the customer's house and Kakfa to async communication with Ordering API Microservice
 
